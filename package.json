@@ -1,0 +1,17 @@
+{
+  "name": "tenpay-2",
+  "version": "1.0.0",
+  "description": "微信支付 for nodejs",
+  "main": "/index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "微信支付",
+    "微信红包",
+    "wechat",
+    "tenpay"
+  ],
+  "author": "Eric",
+  "license": "MIT"
+}
